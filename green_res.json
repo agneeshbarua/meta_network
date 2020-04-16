@@ -1,0 +1,414 @@
+{
+	"nodes": [{
+		"name": "protein disulfide isomerase family A member 5",
+		"cd": 2,
+		"group": 1,
+		"v": 20.539
+	}, {
+		"name": "Transmembrane P24 trafficking protein 9",
+		"cd": 1,
+		"group": 1,
+		"v": 117.2063333
+	}, {
+		"name": "multiple coagulation factor deficiency 2",
+		"cd": 2,
+		"group": 1,
+		"v": 93.2413333
+	}, {
+		"name": "Osteosarcoma amplified 9, endoplasmic reticulum lectin",
+		"cd": 2,
+		"group": 1,
+		"v": 51.10366667
+	}, {
+		"name": "5'-nucleotidase ecto",
+		"cd": 1,
+		"group": 0,
+		"v": 254.86
+	}, {
+		"name": "multiple coagulation factor deficiency 2",
+		"cd": 2,
+		"group": 1,
+		"v": 93.2413333
+	}, {
+		"name": "Isovaleryl-CoA dehydrogenase",
+		"cd": 1,
+		"group": 1,
+		"v": 57.0853333
+	}, {
+		"name": "dihydrolipoamide branced chain transacylase E2",
+		"cd": 3,
+		"group": 1,
+		"v": 16.91466667
+	}, {
+		"name": "regulator of G-protein signalling 2",
+		"cd": 1,
+		"group": 1,
+		"v": 47.4
+	}, {
+		"name": "Rho guanine nucleotide exchange factor 26",
+		"cd": 1,
+		"group": 1,
+		"v": 8.194
+	}, {
+		"name": "Zn transporter ZIP11-like",
+		"cd": 2,
+		"group": 1,
+		"v": 6.67266667
+	}, {
+		"name": "Neutral cholesterol ester hydrolase 1",
+		"cd": 1,
+		"group": 1,
+		"v": 102.42
+	}, {
+		"name": "tubulin folding cofactor D",
+		"cd": 1,
+		"group": 1,
+		"v": 17.619
+	}, {
+		"name": "glutathione peroxidase 3",
+		"cd": 2,
+		"group": 0,
+		"v": 1018.189333
+	}, {
+		"name": "phosphoseryl-tRNA kinase",
+		"cd": 3,
+		"group": 1,
+		"v": 6.17933333
+	}, {
+		"name": "solute carrier family 45 member 3",
+		"cd": 2,
+		"group": 1,
+		"v": 56.122
+	}, {
+		"name": "Zn transporter ZIP11-like",
+		"cd": 2,
+		"group": 1,
+		"v": 6.67266667
+	}, {
+		"name": "transcription factor like 5 (basic helix-look-helix)",
+		"cd": 1,
+		"group": 1,
+		"v": 9.59433333
+	}, {
+		"name": "solute carrier family 7, member 9",
+		"cd": 1,
+		"group": 1,
+		"v": 3.752
+	}, {
+		"name": "TBC1 domain family member 16",
+		"cd": 1,
+		"group": 1,
+		"v": 4.249
+	}, {
+		"name": "lysophosphatidylcholine acyltransferase 2",
+		"cd": 2,
+		"group": 1,
+		"v": 59.684
+	}, {
+		"name": "SH3 and multiple anyrin repeat domains protein 3-like",
+		"cd": 2,
+		"group": 1,
+		"v": 2.14033333
+	}, {
+		"name": "asunder spermatogenesis regulator",
+		"cd": 1,
+		"group": 1,
+		"v": 10.8
+	}, {
+		"name": "protein disulfide isomerase family A member 5",
+		"cd": 2,
+		"group": 1,
+		"v": 20.539
+	}, {
+		"name": "Transmembrane emp24 domain coating protein 10-like",
+		"cd": 4,
+		"group": 1,
+		"v": 144.62
+	}, {
+		"name": "transcription factor like 5 (basic helix-look-helix)",
+		"cd": 1,
+		"group": 1,
+		"v": 9.59433333
+	}, {
+		"name": "solute carrier family 31 member 2",
+		"cd": 2,
+		"group": 1,
+		"v": 7.2
+	}, {
+		"name": "sorting nexin 8",
+		"cd": 1,
+		"group": 1,
+		"v": 5.83533333
+	}, {
+		"name": "glutamyl aminopeptidase-like",
+		"cd": 1,
+		"group": 0,
+		"v": 52.9083333
+	}, {
+		"name": "dipeptidyl peptidase 4",
+		"cd": 1,
+		"group": 1,
+		"v": 26.7133333
+	}, {
+		"name": "aldehyde dehydrogenase 6 family member A1",
+		"cd": 2,
+		"group": 1,
+		"v": 92.4443333
+	}, {
+		"name": "Rho guanine nucleotide exchange factor 26",
+		"cd": 1,
+		"group": 1,
+		"v": 8.194
+	}, {
+		"name": "collagen type IX alpha 3",
+		"cd": 1,
+		"group": 1,
+		"v": 5.16033333
+	}, {
+		"name": "Transmembrane emp24 domain coating protein 10-like",
+		"cd": 4,
+		"group": 1,
+		"v": 144.62
+	}, {
+		"name": "5'-nucleotidase ecto",
+		"cd": 1,
+		"group": 0,
+		"v": 254.86
+	}, {
+		"name": "solute carrier family 39 member 9",
+		"cd": 2,
+		"group": 1,
+		"v": 21.3493333
+	}, {
+		"name": "transforming growth factor beta 1",
+		"cd": 2,
+		"group": 1,
+		"v": 0.80466667
+	}, {
+		"name": "collagen alpha 3-(IX) chain-like",
+		"cd": 3,
+		"group": 1,
+		"v": 2.144
+	}, {
+		"name": "uncharacterized LOC107301163",
+		"cd": 1,
+		"group": 1,
+		"v": 164.442
+	}, {
+		"name": "disintegrin-like leberagin-C",
+		"cd": 4,
+		"group": 0,
+		"v": 1177.312333
+	}, {
+		"name": "cytochrome P450 2C4-like",
+		"cd": 5,
+		"group": 1,
+		"v": 53.149
+	}, {
+		"name": "HEAT repeat-containing protein 5B like",
+		"cd": 1,
+		"group": 1,
+		"v": 0.0543333
+	}],
+	"links": [{
+		"source": 0,
+		"target": 1,
+		"value": 0
+	}, {
+		"source": 2,
+		"target": 3,
+		"value": 0
+	}, {
+		"source": 4,
+		"target": 5,
+		"value": 0
+	}, {
+		"source": 6,
+		"target": 7,
+		"value": 0
+	}, {
+		"source": 8,
+		"target": 9,
+		"value": 0
+	}, {
+		"source": 10,
+		"target": 11,
+		"value": 0
+	}, {
+		"source": 12,
+		"target": 13,
+		"value": 0
+	}, {
+		"source": 12,
+		"target": 14,
+		"value": 0
+	}, {
+		"source": 6,
+		"target": 5,
+		"value": 0
+	}, {
+		"source": 15,
+		"target": 16,
+		"value": 0
+	}, {
+		"source": 12,
+		"target": 16,
+		"value": 0
+	}, {
+		"source": 17,
+		"target": 9,
+		"value": 0
+	}, {
+		"source": 18,
+		"target": 19,
+		"value": 0
+	}, {
+		"source": 4,
+		"target": 20,
+		"value": 0
+	}, {
+		"source": 4,
+		"target": 21,
+		"value": 0
+	}, {
+		"source": 22,
+		"target": 20,
+		"value": 0
+	}, {
+		"source": 17,
+		"target": 23,
+		"value": 0
+	}, {
+		"source": 17,
+		"target": 24,
+		"value": 0
+	}, {
+		"source": 18,
+		"target": 25,
+		"value": 0
+	}, {
+		"source": 8,
+		"target": 16,
+		"value": 0
+	}, {
+		"source": 26,
+		"target": 27,
+		"value": 0
+	}, {
+		"source": 28,
+		"target": 29,
+		"value": 0
+	}, {
+		"source": 18,
+		"target": 3,
+		"value": 0
+	}, {
+		"source": 8,
+		"target": 5,
+		"value": 0
+	}, {
+		"source": 15,
+		"target": 30,
+		"value": 0
+	}, {
+		"source": 31,
+		"target": 32,
+		"value": 0
+	}, {
+		"source": 33,
+		"target": 3,
+		"value": 0
+	}, {
+		"source": 18,
+		"target": 23,
+		"value": 0
+	}, {
+		"source": 8,
+		"target": 14,
+		"value": 0
+	}, {
+		"source": 17,
+		"target": 34,
+		"value": 0
+	}, {
+		"source": 4,
+		"target": 9,
+		"value": 0
+	}, {
+		"source": 35,
+		"target": 1,
+		"value": 0
+	}, {
+		"source": 0,
+		"target": 24,
+		"value": 0
+	}, {
+		"source": 12,
+		"target": 11,
+		"value": 0
+	}, {
+		"source": 2,
+		"target": 1,
+		"value": 0
+	}, {
+		"source": 4,
+		"target": 16,
+		"value": 0
+	}, {
+		"source": 12,
+		"target": 34,
+		"value": 0
+	}, {
+		"source": 18,
+		"target": 5,
+		"value": 0
+	}, {
+		"source": 4,
+		"target": 14,
+		"value": 0
+	}, {
+		"source": 17,
+		"target": 5,
+		"value": 0
+	}, {
+		"source": 0,
+		"target": 3,
+		"value": 0
+	}, {
+		"source": 36,
+		"target": 37,
+		"value": 0
+	}, {
+		"source": 8,
+		"target": 25,
+		"value": 0
+	}, {
+		"source": 6,
+		"target": 1,
+		"value": 0
+	}, {
+		"source": 18,
+		"target": 24,
+		"value": 0
+	}, {
+		"source": 8,
+		"target": 34,
+		"value": 0
+	}, {
+		"source": 0,
+		"target": 5,
+		"value": 0
+	}, {
+		"source": 33,
+		"target": 5,
+		"value": 0
+	}, {
+		"source": 38,
+		"target": 39,
+		"value": 0
+	}, {
+		"source": 40,
+		"target": 41,
+		"value": 0
+	}]
+}
